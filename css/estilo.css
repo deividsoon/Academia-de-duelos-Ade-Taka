@@ -1,0 +1,26 @@
+body {
+    background: black; font-family: comic-sans; heigth: 100vh;
+  }
+  
+  .redirect-link: https://discord.gg/mXgNVm;
+  
+  .twitch-warning {
+    color: white;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    text-align: center;
+    color: whitesmoke;
+  }
+  
+  .site-text,
+  .site-subtext {
+    color: whitesmoke;
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+    color: purple;
+  }
+  
